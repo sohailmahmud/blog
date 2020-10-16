@@ -1,0 +1,169 @@
+baseurl = "http://sohailmahmud.netlify.app"
+title = "Sohail Mahmud"
+
+theme = "hugo-coder"
+
+languagecode = "en"
+defaultcontentlanguage = "en"
+
+paginate = 20
+
+pygmentsstyle = "b2"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+disqusShortname = "yourdiscussshortname"
+
+[params]
+    author = "Sohail Mahmud"
+    description = "Sohail Mahmud's personal blog"
+    keywords = "blog,developer,software,engineer"
+    info = "Full Stack Software Developer"
+    avatarurl = "images/avatar.png"
+    #gravatar = "sohailmahmud@outlook.com"
+
+    dateformat = "January 2, 2006"
+
+    hideFooter = false
+    hideCredits = false
+    hideCopyright = true
+    since = 2020
+
+    # Git Commit in Footer, uncomment the line below to enable it.
+    commit = "https://github.com/sohailsami/sohailsami.github.io/tree/"
+
+    rtl = false
+
+    # Specify light/dark colorscheme
+    # Supported values:
+    # "auto" (use preference set by browser)
+    # "dark" (dark background, light foreground)
+    # "light" (light background, dark foreground) (default)
+    colorscheme = "auto"
+
+    # Hide the toggle button, along with the associated vertical divider
+    hidecolorschemetoggle = false
+
+    # Series see also post count
+    maxSeeAlsoItems = 8
+
+    # Enable Twemoji
+    enableTwemoji = true
+
+    # Custom CSS
+    custom_css = []
+
+    # Custom JS
+    custom_js = []
+
+# If you want to use fathom(https://usefathom.com) for analytics, add this section
+[params.fathomAnalytics]
+    siteID = "ABCDE"
+    # Default value is cdn.usefathom.com, overwrite this if you are self-hosting
+    serverURL = "analytics.example.com"
+
+# If you want to use plausible(https://plausible.io) for analytics, add this section
+[params.plausibleAnalytics]
+    domain = "example.com"
+    # Default value is plausible.io, overwrite this if you are self-hosting or using a custom domain
+    serverURL = "analytics.example.com"
+
+# If you want to use goatcounter(https://goatcounter.com) for analytics, add this section
+[params.goatCounter]
+    code = "code"
+
+[taxonomies]
+  category = "categories"
+  series = "series"
+  tag = "tags"
+
+[[params.social]]
+    name = "Github"
+    icon = "fa fa-github"
+    weight = 1
+    url = "https://github.com/sohailsami/"
+[[params.social]]
+    name = "Twitter"
+    icon = "fa fa-twitter"
+    weight = 3
+    url = "https://twitter.com/sohailsamii/"
+[[params.social]]
+    name = "LinkedIn"
+    icon = "fa fa-linkedin"
+    weight = 4
+    url = "https://www.linkedin.com/in/sohailmahmud/"
+[[params.social]]
+    name = "Medium"
+    icon = "fa fa-medium"
+    weight = 5
+    url = "https://medium.com/@sohailsami"
+[[params.social]]
+    name = "Telegram"
+    icon = "fa fa-instagram"
+    weight = 6
+    url = "https://instagram.com/sohailsamii"
+[[params.social]]
+    name = "About"
+    icon = "fa fa-bullseye"
+    weight = 7
+    url = "https://about.me/sohailmahmud"
+
+
+[languages]
+    [languages.en]
+        languagename = "English"
+
+        [languages.en.menu]
+
+            [[languages.en.menu.main]]
+            name = "About"
+            weight = 1
+            url = "about/"
+
+            [[languages.en.menu.main]]
+            name = "Blog"
+            weight = 2
+            url = "posts/"
+
+            [[languages.en.menu.main]]
+            name = "Projects"
+            weight = 3
+            url = "projects/"
+
+            [[languages.en.menu.main]]
+            name = "Contact me"
+            weight = 5
+            url = "contact/"
+
+
+    [languages.bn]
+        languagename = "বাংলা"
+        title = "সোহাইল মাহমুদ"
+
+        [languages.bn.params]
+            author = "সোহাইল মাহমুদ"
+            info = "ফুল স্ট্যাক সফটওয়্যার ডেভেলপার"
+            description = "Sítio pessoal de João Ninguém"
+            keywords = "programmer,developer,software,engineer"
+
+        [languages.bn.menu]
+
+            [[languages.bn.menu.main]]
+            name = "আমার সম্পর্কে"
+            weight = 1
+            url = "about/"
+
+            [[languages.bn.menu.main]]
+            name = "ব্লগ"
+            weight = 2
+            url = "posts/"
+
+            [[languages.bn.menu.main]]
+            name = "প্রকল্প-সমূহ"
+            weight = 3
+            url = "projects/"
+
+            [[languages.bn.menu.main]]
+            name = "যোগাযোগ"
+            weight = 5
+            url = "contact/"
