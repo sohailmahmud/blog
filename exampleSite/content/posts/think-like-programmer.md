@@ -49,4 +49,78 @@ The best way involves a) having a framework and b) __practicing it.__
 
 __To find the right framework, I followed the advice in Tim Ferriss’ book on learning, "[The 4-Hour Chef](https://www.amazon.com/dp/0547884591/?tag=richardreeze-20)".__  
 
-It led me to interview two really impressive people: C. Jordan Ball (ranked 1st or 2nd out of 65,000+ users on Coderbyte), and V. Anton Spraul (author of the book “Think Like a Programmer: An Introduction to Creative Problem Solving”).
+It led me to interview two really impressive people: [C. Jordan Ball](https://www.linkedin.com/in/cjordanball/) (ranked 1st or 2nd out of 65,000+ users on [Coderbyte](https://coderbyte.com/)), and V. Anton Spraul (author of the book “[Think Like a Programmer: An Introduction to Creative Problem Solving”](https://www.amazon.com/dp/1593274246/?tag=richardreeze-20)).  
+
+I asked them the same questions, and guess what? Their answers were pretty similar!  
+
+Soon, you too will know them.  
+
+Sidenote: this doesn’t mean they did everything the same way. Everyone is different. You’ll be different. But if you start with principles we all agree are good, you’ll get a lot further a lot quicker.  
+
+> “The biggest mistake I see new programmers make is focusing on learning syntax instead of learning how to solve problems.” — V. Anton Spraul  
+
+###### So, what should you do when you encounter a new problem?
+
+Here are the steps:  
+
+#### 1. Understand
+Know exactly what is being asked. Most hard problems are hard because you don’t understand them (hence why this is the first step).  
+
+How to know when you understand a problem? When you can explain it in plain English.  
+
+Do you remember being stuck on a problem, you start explaining it, and you instantly see holes in the logic you didn’t see before?  
+
+Most programmers know this feeling.  
+
+This is why you should write down your problem, doodle a diagram, or tell someone else about it (or thing… some people use a [rubber duck](https://en.wikipedia.org/wiki/Rubber_duck_debugging)).  
+
+> “If you can’t explain something in simple terms, you don’t understand it.” — Richard Feynman  
+
+#### 2. Plan
+Don’t dive right into solving without a plan (and somehow hope you can muddle your way through). Plan your solution!  
+
+Nothing can help you if you can’t write down the exact steps.  
+
+In programming, this means don’t start hacking straight away. Give your brain time to analyze the problem and process the information.  
+
+###### To get a good plan, answer this question:
+
+“Given input X, what are the steps necessary to return output Y?”  
+
+Sidenote: Programmers have a great tool to help them with this… Comments!  
+
+#### 3. Divide
+Pay attention. This is the most important step of all.  
+
+Do not try to solve one big problem. You will cry.  
+
+Instead, break it into sub-problems. These sub-problems are much easier to solve.  
+
+Then, solve each sub-problem one by one. Begin with the simplest. Simplest means you know the answer (or are closer to that answer).  
+
+After that, simplest means this sub-problem being solved doesn’t depend on others being solved.  
+
+Once you solved every sub-problem, connect the dots.  
+
+Connecting all your “sub-solutions” will give you the solution to the original problem.    Congratulations!  
+
+This technique is a cornerstone of problem-solving. Remember it (read this step again, if you must).  
+
+> “If I could teach every beginning programmer one problem-solving skill, it would be the ‘reduce the problem technique.’  
+
+> For example, suppose you’re a new programmer and you’re asked to write a program that reads ten numbers and figures out which number is the third highest. For a brand-new programmer, that can be a tough assignment, even though it only requires basic programming syntax.  
+
+> If you’re stuck, you should reduce the problem to something simpler. Instead of the third-highest number, what about finding the highest overall? Still too tough? What about finding the largest of just three numbers? Or the larger of two?  
+
+> Reduce the problem to the point where you know how to solve it and write the solution. Then expand the problem slightly and rewrite the solution to match, and keep going until you are back where you started.” — V. Anton Spraul  
+
+#### 4. Stuck?
+By now, you’re probably sitting there thinking “Hey Richard... That’s cool and all, but what if I’m stuck and can’t even solve a sub-problem??”  
+
+First off, take a deep breath. Second, that’s fair.  
+
+Don’t worry though, friend. This happens to everyone!  
+
+The difference is the best programmers/problem-solvers are more curious about bugs/errors than irritated.  
+
+In fact, here are three things to try when facing a whammy:  
