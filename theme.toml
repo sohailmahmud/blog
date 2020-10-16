@@ -2,7 +2,7 @@ name = "Sohail Mahmud"
 license = ""
 licenselink = "https://github.com/soahilsami/sm-blog/blob/master/LICENSE.md"
 description = "Sohail's Blog"
-homepage = "https://github.com/sohailsami/sm-blog/"
+homepage = "https://sohailsami.netlify.app/"
 tags = [
   "blog",
   "minimal",
@@ -23,4 +23,4 @@ min_version = "0.73.0"
 
 [author]
   name = "Luiz F. A. de Prá"
-  homepage = "https://luizdepra.com"
+  homepage = "https://sohailsami.netlify.app"
