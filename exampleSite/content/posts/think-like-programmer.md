@@ -1,5 +1,5 @@
 +++
-date = "2014-01-08"
+date = "2018-03-10"
 title = "How to think like a programmer"
 slug = "think-like-programmer"
 description = "The post demonstrates features of the coder theme."
@@ -8,74 +8,45 @@ math = true
 series = ["Theme", "Hugo"]
 +++
 
-## Style Demo
+### How to think like a programmer — lessons in problem solving
+![How to think like a programmer](https://cdn-media-1.freecodecamp.org/images/1*HTRqXgr7CVtRBsyTxurQew.jpeg)  
 
-# h1 Heading
-## h2 Heading
-### h3 Heading
-#### h4 Heading
-##### h5 Heading
-###### h6 Heading
+#### If you’re interested in programming, you may well have seen this quote before:  
+> “Everyone in this country should learn to program a computer, because it teaches you to think.” - Steve Jobs
+
+You probably also wondered what does it mean, exactly, to think like a programmer? And how do you do it??  
+
+Essentially, it’s all about __a more effective way for problem solving.__  
+
+In this post, my goal is to teach you that way.  
+
+By the end of it, you’ll know exactly what steps to take to be a better problem-solver.  
+
+### Why is this important?  
+
+###### Problem solving is the meta-skill.
+
+We all have problems. Big and small. How we deal with them is sometimes, well…pretty random.  
+
+Unless you have a system, this is probably how you “solve” problems (which is what I did when I started coding):  
+
+* Try a solution.
+* If that doesn’t work, try another one.
+* If that doesn’t work, repeat step 2 until you luck out.
+
+Look, sometimes you luck out. But that is the worst way to solve problems! And it’s a huge, huge waste of time.  
+
+The best way involves a) having a framework and b) __practicing it.__
+
+> __“Almost all employers prioritize problem-solving skills first.__  
+
+> __Problem-solving skills are almost unanimously the most important qualification that employers look for… more than programming languages proficiency, debugging, and system design.__  
+
+> __Demonstrating computational thinking or the ability to break down large, complex problems is just as valuable (if not more so) than the baseline technical skills required for a job.” — Hacker Rank ([2018 Developer Skills Report](https://research.hackerrank.com/developer-skills/2018/))__  
 
 
----
+### Have a framework
 
-**This is bold text**
+__To find the right framework, I followed the advice in Tim Ferriss’ book on learning, "[The 4-Hour Chef](https://www.amazon.com/dp/0547884591/?tag=richardreeze-20)".__  
 
-__This is bold text__
-
-*This is italic text*
-
-_This is italic text_
-
-~~Deleted text~~
-
-This is text with inline math $\sum_{n=1}^{\infty} 2^{-n} = 1$ and with math blocks:
-
-$$
-\sum_{n=1}^{\infty} 2^{-n} = 1
-$$
-
-| Heading | Another heading |
-| :----:  | :-------------: |
-|  text   |      text       |
-|  text   |      text       |
-|  text   |      text       |
-
-> Block quotes are
-> written like so.
->
-> They can span multiple paragraphs,
-> if you like.
-
-Some text, and some `code` and then a nice plain [link with title](https://github.com/davidhampgonsalves/davidhampgonsalves.com-hugo "title text!").
-
-and then
-
-+ Create a list by starting a line with `+`, `-`, or `*`
-+ Sub-lists are made by indenting 2 spaces:
-  - Marker character change forces new list start:
-    * Ac tristique libero volutpat at
-+ Very easy!
-
-vs.
-
-1. Lorem ipsum dolor sit amet
-2. Consectetur adipiscing elit
-3. Integer molestie lorem at massa
-
-## Code
-
-Inline `code`
-
-``` js
-var foo = function (bar) {
-  return bar++;
-};
-
-console.log(foo(5));
-```
-
-## Hugo shortcode for figure
-
-{{< figure src="/images/N90.jpg" caption="N90 nebula, \"New stars shed light on the past\" by ESA/Hubble" >}}
+It led me to interview two really impressive people: C. Jordan Ball (ranked 1st or 2nd out of 65,000+ users on Coderbyte), and V. Anton Spraul (author of the book “Think Like a Programmer: An Introduction to Creative Problem Solving”).
