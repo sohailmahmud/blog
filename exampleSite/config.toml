@@ -17,7 +17,7 @@ disqusShortname = "yourdiscussshortname"
 [params]
     author = "Sohail Mahmud"
     description = "Sohail Mahmud's personal blog"
-    keywords = "developer,software,engineer"
+    keywords = "blog,developer,software,engineer"
     info = "Full Stack Software Developer"
     avatarurl = "images/avatar.png"
     #gravatar = "sohailmahmud@outlook.com"
@@ -45,7 +45,7 @@ disqusShortname = "yourdiscussshortname"
     hidecolorschemetoggle = false
 
     # Series see also post count
-    maxSeeAlsoItems = 8
+    maxSeeAlsoItems = 5
 
     # Enable Twemoji
     enableTwemoji = true
@@ -85,28 +85,18 @@ disqusShortname = "yourdiscussshortname"
 [[params.social]]
     name = "Twitter"
     icon = "fa fa-twitter"
-    weight = 3
+    weight = 2
     url = "https://twitter.com/sohailsamii/"
 [[params.social]]
     name = "LinkedIn"
     icon = "fa fa-linkedin"
-    weight = 4
+    weight = 3
     url = "https://www.linkedin.com/in/sohailmahmud/"
 [[params.social]]
     name = "Medium"
     icon = "fa fa-medium"
-    weight = 5
+    weight = 4
     url = "https://medium.com/@sohailsami"
-[[params.social]]
-    name = "Telegram"
-    icon = "fa fa-instagram"
-    weight = 6
-    url = "https://instagram.com/sohailsamii"
-[[params.social]]
-    name = "About"
-    icon = "fa fa-bullseye"
-    weight = 7
-    url = "https://about.me/sohailmahmud"
 
 
 [languages]
