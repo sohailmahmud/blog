@@ -22,10 +22,8 @@ In this post, my goal is to teach you that way.
 
 By the end of it, you’ll know exactly what steps to take to be a better problem-solver.  
 
-### Why is this important?  
-
+### Why is this important?
 ###### Problem solving is the meta-skill.
-
 We all have problems. Big and small. How we deal with them is sometimes, well…pretty random.  
 
 Unless you have a system, this is probably how you “solve” problems (which is what I did when I started coding):  
@@ -46,7 +44,6 @@ The best way involves a) having a framework and b) __practicing it.__
 
 
 ### Have a framework
-
 __To find the right framework, I followed the advice in Tim Ferriss’ book on learning, "[The 4-Hour Chef](https://www.amazon.com/dp/0547884591/?tag=richardreeze-20)".__  
 
 It led me to interview two really impressive people: [C. Jordan Ball](https://www.linkedin.com/in/cjordanball/) (ranked 1st or 2nd out of 65,000+ users on [Coderbyte](https://coderbyte.com/)), and V. Anton Spraul (author of the book “[Think Like a Programmer: An Introduction to Creative Problem Solving”](https://www.amazon.com/dp/1593274246/?tag=richardreeze-20)).  
@@ -60,9 +57,7 @@ Sidenote: this doesn’t mean they did everything the same way. Everyone is diff
 > “The biggest mistake I see new programmers make is focusing on learning syntax instead of learning how to solve problems.” — V. Anton Spraul  
 
 ###### So, what should you do when you encounter a new problem?
-
-### Here are the steps:  
-
+### Here are the steps:
 #### 1. Understand
 Know exactly what is being asked. Most hard problems are hard because you don’t understand them (hence why this is the first step).  
 
@@ -84,7 +79,6 @@ Nothing can help you if you can’t write down the exact steps.
 In programming, this means don’t start hacking straight away. Give your brain time to analyze the problem and process the information.  
 
 ###### To get a good plan, answer this question:
-
 “Given input X, what are the steps necessary to return output Y?”  
 
 Sidenote: Programmers have a great tool to help them with this… Comments!  
