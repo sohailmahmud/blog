@@ -1,8 +1,8 @@
-name = "Coder"
-license = "MIT"
-licenselink = "https://github.com/luizdepra/hugo-coder/blob/master/LICENSE.md"
-description = "A simple and clean blog theme for Hugo"
-homepage = "https://github.com/luizdepra/hugo-coder/"
+name = "Sohail Mahmud"
+license = ""
+licenselink = "https://github.com/soahilsami/sm-blog/blob/master/LICENSE.md"
+description = "Sohail's Blog"
+homepage = "https://github.com/sohailsami/sm-blog/"
 tags = [
   "blog",
   "minimal",
