@@ -6,7 +6,7 @@ description = ""
 series = ["Theme", "Hugo"]
 +++
 
-![To-do lists kill productivity](https://media-exp1.licdn.com/dms/image/C561AAQExtrJcQ39ZlA/storylineheaderimage-shrink_600_366/0?e=1602943200&v=beta&t=Zjg56_So_L2-kwUQQ7bc_R27R40ZVHPhjMkiKgppslQ)
+![To-do lists kill productivity](https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fspecials-images.forbesimg.com%2Fdam%2Fimageserve%2F1092571024%2F960x0.jpg%3Ffit%3Dscale)
 
 #### To-do lists may hurt our productivity than we think. Here's why.
 
