@@ -1,5 +1,5 @@
 +++
-date = "2014-04-02"
+date = "2013-04-02"
 title = "(Hu)go Template Primer"
 slug = "hugo-template-primer"
 tags = [
