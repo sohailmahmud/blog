@@ -1,6 +1,7 @@
 +++
 date = "2014-01-08"
-title = "Theme Demo"
+title = "How to think like a programmer"
+slug = "think-like-programmer"
 description = "The post demonstrates features of the coder theme."
 images = ["/images/N90.jpg"]
 math = true
