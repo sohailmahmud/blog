@@ -61,7 +61,7 @@ Sidenote: this doesn’t mean they did everything the same way. Everyone is diff
 
 ###### So, what should you do when you encounter a new problem?
 
-Here are the steps:  
+### Here are the steps:  
 
 #### 1. Understand
 Know exactly what is being asked. Most hard problems are hard because you don’t understand them (hence why this is the first step).  
