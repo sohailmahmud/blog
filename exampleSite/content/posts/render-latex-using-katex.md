@@ -8,7 +8,7 @@ series = ["Theme", "Hugo"]
 
 Enable katex by adding `katex = "true"` to the [front matter](https://gohugo.io/content-management/front-matter/)  
 
-```tex
+```toml
 +++
 katex = "true"
 +++

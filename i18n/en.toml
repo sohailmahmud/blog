@@ -21,7 +21,7 @@ other = "Sorry, this page does not exist."
 other = "You can head back to <a href=\"{{ . }}\">homepage</a>."
 
 [powered_by]
-other = "</> with ❤️ by"
+other = "Powered by"
 
 [see_also]
 other = "See also in"

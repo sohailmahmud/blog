@@ -5,7 +5,7 @@
         <p>{{ . }}</p>
       {{ end }}
       {{ if not .Site.Params.hideCopyright }}
-        &copy;
+        ©
         {{ if (and (.Site.Params.since) (lt .Site.Params.since now.Year)) }}
           {{ .Site.Params.since }} -
         {{ end }}
@@ -14,7 +14,7 @@
       {{ end }}
       {{ if not .Site.Params.hideCredits }}
         {{ if not .Site.Params.hideCopyright }} · {{ end }}
-        {{ i18n "powered_by" }} <a href="https://github.com/sohailsami/">Sohail</a>
+        {{ i18n "powered_by" }} <a href="https://gohugo.io/">Hugo</a> & <a href="https://github.com/luizdepra/hugo-coder/">Coder</a>.
       {{ end }}
       {{ if .Site.Params.commit }}
         {{ if .GitInfo }}

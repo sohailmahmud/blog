@@ -1,45 +1,29 @@
 +++
-title = "About Me"
+title = "About Hugo"
 slug = "about"
 +++
-### Hi there 👋, I am Sohail Mahmud!
----------------------------------------------------------------------------------------------------------
-**<div align="justify">A Full Stack Software Developer with industry experience building web application used by millions of people. Specializing in JavaScript technologies and AWS. Professional experience working with Node.js, Laravel and Drone.</div>**
 
-###### 👨‍💻 AREAS OF EXPERTISE
-* Frontend: HTML, CSS, SASS, Vanilla JS, React
-* Backend: PHP, Java, NodeJS, Docker
-* Databases: MySQL, Oracle, PostgreSQL, MongoDB
-* Cloud Computing: AWS, Salesforce
-* CI/CD: Drone, Jenkins
-
-###### 💼 WORK EXPERIENCE
-_May 2020 – Present_  
-**Full Stack Developer (Remote)**  
-CYNERGY SOLUTIONS LLC  
-Simi Valley, CA, 93065 US.
-
-_December 2018 – April 2020_  
-**Web Software Developer**  
-NATURUB GROUP OF COMPANIES  
-KEPZ, Chittagong, Bangladesh.
-
-_August 2017 – October 2018_  
-**Web Programmer**  
-AUTOMATE INFOSYS LTD.  
-Chittagong, Bangladesh.
+Hugo is a static site engine written in Go.
 
 
-###### 🎓 EDUCATION
-**University of Creative Technology**  
-B.Sc, Computer Science and Engineering  
-2020 – 2023 (expected)
+It makes use of a variety of open source projects including:
 
-**Chittagong Polytechnic Institute**  
-Diploma-in Engineering, Computer Technology  
-2013 – 2017
+* [Cobra](https://github.com/spf13/cobra)
+* [Viper](https://github.com/spf13/viper)
+* [J Walter Weatherman](https://github.com/spf13/jWalterWeatherman)
+* [Cast](https://github.com/spf13/cast)
 
+Learn more and contribute on [GitHub](https://github.com/spf13).
 
-Have questions or suggestions? Feel free to _[open an issue on GitHub](https://github.com/sohailsami/sohailsami.github.io/issues/new)_ or _[ask me on Telegram](https://t.me/sohailsamii)._
+## Setup
+
+Some fun facts about [Hugo](http://gohugo.io/):
+
+* Built in [Go](http://golang.org/)
+* Loosely inspired by [Jekyll](http://jekyllrb.com/)
+* Primarily developed by [spf13](http://spf13.com/) on the train while commuting to and from Manhattan.
+* Coded in [Vim](http://vim.org) using [spf13-vim](http://vim.spf13.com/)
+
+Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/spf13/hugo/issues/new) or [ask me on Twitter](https://twitter.com/spf13).
 
 Thanks for reading!

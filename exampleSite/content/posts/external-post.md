@@ -10,6 +10,6 @@ tags = [
 categories = [
     "Development",
 ]
-externalLink = "https://github.com/sohailsami/sohailsami.github.io/wiki"
+externalLink = "https://github.com/luizdepra/hugo-coder/wiki"
 series = ["Hugo"]
 +++

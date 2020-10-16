@@ -1,8 +1,8 @@
-name = "Sohail"
+name = "Coder"
 license = "MIT"
-licenselink = "https://github.com/sohailsami/sohailsami.github.io/blob/master/LICENSE.md"
-description = "A simple and clean blog theme for Blogging"
-homepage = "https://sohailsami.github.io"
+licenselink = "https://github.com/luizdepra/hugo-coder/blob/master/LICENSE.md"
+description = "A simple and clean blog theme for Hugo"
+homepage = "https://github.com/luizdepra/hugo-coder/"
 tags = [
   "blog",
   "minimal",
@@ -22,5 +22,5 @@ features = [
 min_version = "0.73.0"
 
 [author]
-  name = "Sohail Mahmud"
-  homepage = "https://sohailsami.github.io"
+  name = "Luiz F. A. de Prá"
+  homepage = "https://luizdepra.com"
