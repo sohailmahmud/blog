@@ -5,7 +5,7 @@ slug = "developer-roadmaps"
 description = ""
 tags = []
 categories = []
-series = ["জনপ্রিয় পোস্ট","সম্পর্কিত পোস্ট","সর্বশেষ পোস্ট"]
+series = ["Popular Posts", "Related Posts","Latest Posts"]
 +++
 
 ![Web Developer Roadmap - 2020](https://i.imgur.com/NNyc9QM.png)

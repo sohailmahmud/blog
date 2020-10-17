@@ -3,7 +3,7 @@ date = "2020-02-23"
 title = "Increasing your productivity with Telegram and Node.js"
 slug = "increse-productivity-with-nodejs"
 description = ""
-series = ["জনপ্রিয় পোস্ট","সম্পর্কিত পোস্ট","সর্বশেষ পোস্ট"]
+series = ["Popular Posts", "Related Posts","Latest Posts"]
 +++
 
 ![Increasing your productivity with Telegram and Node.js](https://miro.medium.com/max/700/1*5fJjRL-3CDoWNJPfgaHm_Q.jpeg)

@@ -13,7 +13,7 @@ categories = [
     "Development",
     "golang",
 ]
-series = ["Popular Posts", "Old Posts"]
+series = ["Popular Posts", "Related Posts","Old Posts"]
 +++
 
 Hugo uses the excellent [go][] [html/template][gohtmltemplate] library for

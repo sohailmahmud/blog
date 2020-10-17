@@ -3,7 +3,7 @@ date = "2020-03-20"
 title = "freeCodeCamp Review and Guide 2020"
 slug = "review-on-freecodecamp"
 katex = true
-series = ["Theme", "Hugo"]
+series = ["Popular Posts", "Related Posts","Old Posts"]
 +++
 
 ## My review on freeCodeCamp’s curriculum  

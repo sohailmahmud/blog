@@ -5,7 +5,7 @@ slug = "think-like-programmer"
 description = "The post demonstrates features of the coder theme."
 images = ["/images/N90.jpg"]
 math = true
-series = ["Theme", "Hugo"]
+series = ["Popular Posts", "Related Posts","Old Posts"]
 +++
 
 ### How to think like a programmer — lessons in problem solving

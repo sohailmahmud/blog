@@ -13,7 +13,7 @@ categories = [
     "Development",
     "golang",
 ]
-series = ["জনপ্রিয় পোস্ট","সম্পর্কিত পোস্ট","পুরানো পোস্ট"]
+series = ["Popular Posts", "Related Posts","Old Posts"]
 +++
 
 Hugo uses the excellent [go][] [html/template][gohtmltemplate] library for

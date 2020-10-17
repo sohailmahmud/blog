@@ -3,7 +3,7 @@ date = "2020-09-10"
 title = "Why to-do lists kill productivity"
 slug = "why-to-do-lists-kill"
 description = ""
-series = ["Theme", "Hugo"]
+series = ["Popular Posts", "Related Posts","Latest Posts"]
 +++
 
 ![To-do lists kill productivity](https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fspecials-images.forbesimg.com%2Fdam%2Fimageserve%2F1092571024%2F960x0.jpg%3Ffit%3Dscale)

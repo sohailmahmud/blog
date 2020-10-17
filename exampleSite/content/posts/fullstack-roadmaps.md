@@ -13,7 +13,7 @@ categories = [
     "Development",
     "golang",
 ]
-series = ["Getting Started", "Hugo"]
+series = ["Popular Posts", "Related Posts","Latest Posts"]
 +++
 
 ![Full Stack Developer's Roadmap](https://res.cloudinary.com/practicaldev/image/fetch/s--yZ-A1RXK--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/s7cj5qsge61za29lvn4s.jpg)

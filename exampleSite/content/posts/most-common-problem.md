@@ -3,7 +3,7 @@ date = "2016-03-10"
 title = "5 Most Common Problems New Programmers Face"
 slug = "most-common-problem-programmer"
 description = ""
-series = ["Getting Started", "Popular Posts"]
+series = ["Popular Posts", "Related Posts","Old Posts"]
 +++
 
 ![Most common problems new programmers face](https://miro.medium.com/max/1000/1*cD5EV6t2hepUqOVZwRiqwQ.jpeg)  

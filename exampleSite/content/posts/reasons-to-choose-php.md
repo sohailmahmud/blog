@@ -12,7 +12,7 @@ categories = [
     "Development",
     "golang",
 ]
-series = ["Popular Posts", "Old Posts"]
+series = ["Popular Posts", "Related Posts","Old Posts"]
 +++
 
 ![Top Reasons to Choose PHP for Web Application Project](https://media-exp1.licdn.com/dms/image/C5112AQGdLF3aitms3Q/article-inline_image-shrink_1000_1488/0?e=1608163200&v=beta&t=TA0bL_jQ2MjkCVUcL_gHV-2gHrnyIYH4Mx-dt28i6Xw)  
