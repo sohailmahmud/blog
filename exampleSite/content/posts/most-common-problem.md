@@ -23,20 +23,21 @@ Have you seen the State Farm commercials where the car wash company returns the 
 
 This can make programming seem to be a tough slog at first, but don't despair. Not everything must be specified--only what is not something the computer can already do. The header files and libraries that come with your compiler (for example, the iostream header file that allows you to interact with the user) provide a lot of pre-existing functionality. You can use websites like http://www.cppreference.com or our own [function reference](https://www.cprogramming.com/function.html) to find information on these pre-existing libraries of functionality. By using these, you can focus on precisely specifying only what is unique about your program. And even once you do that, you will begin to see patterns that can be turned into functions that wrap up a bunch of steps into a single function that you can call from everywhere. Suddenly complex problems will begin to look simple. It's the difference between:  
 
+```
+Walk forward ten feet
+Move your hand to the wall
+Move your hand to the right until you hit an obstacle
+...
+Press upward on indentation
 
-  Walk forward ten feet
-  Move your hand to the wall
-  Move your hand to the right until you hit an obstacle
-  ...
-  Press upward on indentation
-    
+``` 
 and  
 
-  Walk to door
-  Find light switch
-  Turn on light  
-
-
+```
+Walk to door
+Find light switch
+Turn on light  
+```
 
 The magic thing about programming is that you can box up a complex behavior into a simple subroutine (often, into a [function](https://www.cprogramming.com/tutorial/lesson4.html)) that you can reuse. Sometimes it's hard to get the subroutine done up just right at first, but once you've got it, you no longer need to worry about it.  
 
