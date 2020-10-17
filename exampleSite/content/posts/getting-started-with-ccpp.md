@@ -1,7 +1,7 @@
 +++
 date = "2013-04-02"
-title = "(Hu)go Template Primer"
-slug = "hugo-template-primer"
+title = "Getting Started with C or C++"
+slug = "getting-started-with-corcpp"
 tags = [
     "go",
     "golang",
