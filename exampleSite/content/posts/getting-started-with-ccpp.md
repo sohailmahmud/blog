@@ -1,6 +1,6 @@
 +++
 date = "2013-04-02"
-title = "Getting Started with C or C++"
+title = "Getting Started with C/C++"
 slug = "getting-started-with-corcpp"
 tags = [
     "go",
