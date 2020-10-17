@@ -5,8 +5,8 @@ tags = ["hugo", "i18n"]
 categories = ["about"]
 +++
 ### Hi there 👋, I am Sohail Mahmud!
----------------------------------------------------------------------------------------------------------
-**<div align="justify">A Full Stack Software Developer with industry experience building web application used by millions of people. Specializing in JavaScript technologies and AWS. Professional experience working with Node.js, Laravel and Drone.</div>**
+---
+##### A Full Stack Software Developer with industry experience building web application used by millions of people. Specializing in JavaScript technologies and AWS. Professional experience working with Node.js, Laravel and Drone.
 
 ###### 👨‍💻 AREAS OF EXPERTISE
 * Frontend: HTML, CSS, SASS, Vanilla JS, React
