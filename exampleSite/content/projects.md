@@ -6,7 +6,7 @@ categories = ["projects"]
 +++
 
 #### My Open Source Projects ✨
----------------------------------------------------------------------------------------------------
+---
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sohailsami&repo=where-you-can-donate-blood&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/sohailsami/where-you-can-donate-blood)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sohailsami&repo=crud-app&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/sohailsami/crud-app)  
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sohailsami&repo=posi-pro&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/sohailsami/posi-pro)
