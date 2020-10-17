@@ -71,4 +71,4 @@ For a more advanced article on this topic, you can go here and read about [objec
 
 Another way to make your program more easily modified in the future is to [clearly comment](https://www.cprogramming.com/tutorial/comments.html) it.  
 
-I'll be writing more on learning to program in the next few days, so stay tuned using my feed, or reach out with any feedback [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/kamranahmedse.svg?style=social&label=Follow%20%40sohailsamii)](https://twitter.com/sohailsamii).
+I'll be writing more on learning to program in the next few days, so stay tuned using my feed, or reach out with any feedback. [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/kamranahmedse.svg?style=social&label=Follow%20%40sohailsamii)](https://twitter.com/sohailsamii)
