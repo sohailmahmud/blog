@@ -1,6 +1,6 @@
 +++
 date = "2014-01-17"
-title = "SM Blog Wiki"
+title = "Sohail's Blog Wiki"
 slug = "sm-blog-wiki"
 tags = [
     "hugo",
