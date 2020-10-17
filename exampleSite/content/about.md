@@ -32,7 +32,7 @@ AUTOMATE INFOSYS LTD.
 Chittagong, Bangladesh.
 
 
-###### 🎓 EDUCATION
+###### 👨‍🎓 EDUCATION
 **University of Creative Technology**  
 B.Sc, Computer Science and Engineering  
 2020 – 2023 (expected)
