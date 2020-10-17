@@ -1,5 +1,5 @@
 +++
-title = "About Me"
+title = "আমার সম্পর্কে"
 slug = "about"
 tags = ["hugo", "i18n"]
 categories = ["about"]
