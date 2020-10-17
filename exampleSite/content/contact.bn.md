@@ -11,4 +11,4 @@ categories = ["contact"]
 > আমাকে কল করুন  
 > ০১৬২৪৩৪০৮৮৩  
 > অথবা একটি ইমেল প্রেরণ করুন  
-> sohailmahmud@yahoo.com
+> <sohailmahmud@yahoo.com>
