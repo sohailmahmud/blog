@@ -5,3 +5,5 @@ slug = "dummy"
 tags = ["hugo", "i18n"]
 categories = ["blog"]
 +++
+
+Think like a programmer
