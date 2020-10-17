@@ -3,7 +3,7 @@ date = "2019-03-20"
 title = "Why Ego Is the Enemy in Business and in Life"
 slug = "ego-is-the-enemy"
 description = ""
-series = ["Theme", "Hugo"]
+series = ["জনপ্রিয় পোস্ট","সম্পর্কিত পোস্ট","পুরানো পোস্ট"]
 +++
 
 ![Ego is the enemy](https://miro.medium.com/max/700/1*o6AZ_xTx3wgwaTgYApOu2w.jpeg) 

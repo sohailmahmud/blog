@@ -4,7 +4,7 @@ title = "How to get started with competitive programming?"
 slug = "get-started-with-programming" 
 tags = []
 categories = []
-series = ["Popular Posts", "Related Posts","Latest Posts"]
+series = ["জনপ্রিয় পোস্ট","সম্পর্কিত পোস্ট","সর্বশেষ পোস্ট"]
 +++
 
 ### Competition programming is a skill which most of the companies look for inorder to assess a candidate’s problem solving ability!
