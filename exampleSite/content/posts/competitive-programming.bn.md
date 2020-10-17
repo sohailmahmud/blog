@@ -1,5 +1,5 @@
 +++ 
-date = "2020-10-15"
+date = "2020-04-15"
 title = "How to get started with competitive programming?"
 slug = "get-started-with-programming" 
 tags = []
