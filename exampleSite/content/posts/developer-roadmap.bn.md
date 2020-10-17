@@ -5,7 +5,7 @@ slug = "developer-roadmaps"
 description = ""
 tags = []
 categories = []
-series = ["Popular Posts", "Related Posts","Latest Posts"]
+series = ["Popular Posts", "Related Posts","Old Posts"]
 +++
 
 ![Web Developer Roadmap - 2020](https://i.imgur.com/NNyc9QM.png)

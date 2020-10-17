@@ -4,7 +4,7 @@ title = "The key to being a better listener"
 slug = "key-to-being-a-better-listener" 
 tags = []
 categories = []
-series = ["Popular Posts", "Related Posts","Latest Posts"]
+series = ["Popular Posts","Latest Posts"]
 +++
 
 ![The key to being a better listener](https://d3bvlor7ot19je.cloudfront.net/blog/wp-content/uploads/better_listener.jpg)
