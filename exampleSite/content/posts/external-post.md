@@ -1,7 +1,7 @@
 +++
 date = "2014-01-17"
-title = "Hugo coder wiki"
-slug = "hugo-coder-wiki"
+title = "SM Blog Wiki"
+slug = "sm-blog-wiki"
 tags = [
     "hugo",
     "development",
@@ -10,6 +10,6 @@ tags = [
 categories = [
     "Development",
 ]
-externalLink = "https://github.com/luizdepra/hugo-coder/wiki"
+externalLink = "https://github.com/sohailsami/sm-blog/wiki"
 series = ["Hugo"]
 +++
