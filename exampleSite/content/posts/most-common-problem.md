@@ -1,7 +1,8 @@
 +++ 
-date = "2013-03-10"
-title = "Migrate to Hugo from Jekyll"
-description = "The post explains how to migrate from from Jekyll to Hugo."
+date = "2016-03-10"
+title = "5 Most Common Problems New Programmers Face"
+slug = "most-common-problem-programmer"
+description = ""
 series = ["Getting Started", "Hugo"]
 +++
 
