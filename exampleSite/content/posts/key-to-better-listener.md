@@ -7,7 +7,7 @@ categories = []
 series = ["Popular Posts", "Latest Posts"]
 +++
 
-![The key to being a better listener](https://media-exp1.licdn.com/dms/image/C4D1AAQF62cR5a02-zQ/storylineheaderimage-shrink_600_366/0?e=1603026000&v=beta&t=701m6oPw2ECwewNIoNWgYaW3bKcGE3eoaPhgmdfjM5s)
+![The key to being a better listener](https://d3bvlor7ot19je.cloudfront.net/blog/wp-content/uploads/better_listener.jpg)
 
 #### Listening is a crucial workplace skill. Experts have these tips to improve.
 
