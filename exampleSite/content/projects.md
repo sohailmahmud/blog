@@ -1,5 +1,5 @@
 +++
-title = "প্রকল্প-সমূহ"
+title = "Projects"
 slug = "projects"
 tags = ["hugo", "i18n"]
 categories = ["projects"]
