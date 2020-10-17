@@ -3,9 +3,9 @@ ssgName: custom
 publishDir: demo/public
 buildCommand: make prepare && hugo --source demo --baseURL "/"
 uploadDir: images
-staticDir: smblog/static
-pagesDir: smblog/content
-dataDir: smblog
+staticDir: exampleSite/static
+pagesDir: exampleSite/content
+dataDir: exampleSite
 models:
   config:
     type: data
