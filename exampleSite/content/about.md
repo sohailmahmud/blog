@@ -8,12 +8,7 @@ categories = ["about"]
 --- 
 __A Full Stack Software Developer with industry experience building web application used by millions of people. Specializing in JavaScript technologies and AWS. Professional experience working with Node.js, Laravel and Drone.__  
 
-[![Hire Me](https://cdn.dribbble.com/users/766394/screenshots/2325748/hire.gif](https://mailto:sohailmahmud@yahoo.com)
-[[params.social]]
-    name = "Medium"
-    icon = "fa fa-email"
-    weight = 4
-    url = "https://medium.com/@sohailsami"
+[![Hire Me](https://cdn.dribbble.com/users/766394/screenshots/2325748/hire.gif)](https://mailto:sohailmahmud@yahoo.com)
 
 ###### 👨‍💻 AREAS OF EXPERTISE
 * Frontend: HTML, CSS, SASS, Vanilla JS, React
