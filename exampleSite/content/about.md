@@ -8,7 +8,7 @@ categories = ["about"]
 --- 
 __A Full Stack Software Developer with industry experience building web application used by millions of people. Specializing in JavaScript technologies and AWS. Professional experience working with Node.js, Laravel and Drone.__  
 
-[![Hire Me](hireme.jpg)](mailto:sohailmahmud@yahoo.com)
+[![Hire Me](https://cdn4.iconfinder.com/data/icons/iconset-addictive-flavour/png/sign_hire_me.png](mailto:sohailmahmud@yahoo.com)
 
 ###### 👨‍💻 AREAS OF EXPERTISE
 * Frontend: HTML, CSS, SASS, Vanilla JS, React
