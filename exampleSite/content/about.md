@@ -46,3 +46,17 @@ Diploma-in Engineering, Computer Technology
 Have questions or suggestions? Feel free to _[open an issue on GitHub](https://github.com/sohailsami/sohailsami.github.io/issues/new)_ or _[ask me on Telegram](https://t.me/sohailsamii)._
 
 Thanks for reading!
+
+## collapsible markdown?
+
+<details><summary>CLICK ME</summary>
+<p>
+
+#### yes, even hidden code blocks!
+
+```python
+print("hello world!")
+```
+
+</p>
+</details>
