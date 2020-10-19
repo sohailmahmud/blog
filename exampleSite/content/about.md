@@ -6,6 +6,7 @@ categories = ["about"]
 +++
 ### Hi there 👋, I am Sohail Mahmud!
 ---
+{% include button.html button_name="My Button" button_class="primary" %}
 __A Full Stack Software Developer with industry experience building web application used by millions of people. Specializing in JavaScript technologies and AWS. Professional experience working with Node.js, Laravel and Drone.__
 
 ###### 👨‍💻 AREAS OF EXPERTISE
