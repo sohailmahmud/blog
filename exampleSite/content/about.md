@@ -8,8 +8,6 @@ categories = ["about"]
 --- 
 __A Full Stack Software Developer with industry experience building web application used by millions of people. Specializing in JavaScript technologies and AWS. Professional experience working with Node.js, Laravel and Drone.__  
 
-[![](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=X6XHVCPMRQEL4)
-
 ###### 👨‍💻 AREAS OF EXPERTISE
 * Frontend: HTML, CSS, SASS, Vanilla JS, React
 * Backend: PHP, Java, NodeJS, Docker
@@ -47,3 +45,5 @@ Diploma-in Engineering, Computer Technology
 Have questions or suggestions? Feel free to _[open an issue on GitHub](https://github.com/sohailsami/sohailsami.github.io/issues/new)_ or _[ask me on Telegram](https://t.me/sohailsamii)._
 
 Thanks for reading!
+
+[![](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=X6XHVCPMRQEL4)
