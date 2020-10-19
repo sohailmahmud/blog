@@ -8,9 +8,7 @@ categories = ["about"]
 --- 
 __A Full Stack Software Developer with industry experience building web application used by millions of people. Specializing in JavaScript technologies and AWS. Professional experience working with Node.js, Laravel and Drone.__  
 
-<span class="fs-8">
-[Link button](http://example.com/){: .btn }
-</span>
+[Button with space](http://example.com/){: .btn .btn-purple .mr-2}
 
 ###### 👨‍💻 AREAS OF EXPERTISE
 * Frontend: HTML, CSS, SASS, Vanilla JS, React
