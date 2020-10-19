@@ -8,7 +8,7 @@ categories = ["about"]
 --- 
 __A Full Stack Software Developer with industry experience building web application used by millions of people. Specializing in JavaScript technologies and AWS. Professional experience working with Node.js, Laravel and Drone.__  
 
-[![Hire Me](https://img.shields.io/static/v1?label=HireMe&color=blue)](mailto:sohailmahmud@yahoo.com) [![Hire Me](https://img.shields.io/static/v1?label=HireMe&color=blue)](mailto:sohailmahmud@yahoo.com)
+[![Hire Me](https://img.shields.io/static/v1?label=HireMe&Message=Send_Email&color=blue)](mailto:sohailmahmud@yahoo.com) [![Hire Me](https://img.shields.io/static/v1?label=HireMe&color=blue)](mailto:sohailmahmud@yahoo.com)
 ###### 👨‍💻 AREAS OF EXPERTISE
 * Frontend: HTML, CSS, SASS, Vanilla JS, React
 * Backend: PHP, Java, NodeJS, Docker
@@ -46,17 +46,3 @@ Diploma-in Engineering, Computer Technology
 Have questions or suggestions? Feel free to _[open an issue on GitHub](https://github.com/sohailsami/sohailsami.github.io/issues/new)_ or _[ask me on Telegram](https://t.me/sohailsamii)._
 
 Thanks for reading!
-
-## collapsible markdown?
-
-<details><summary>CLICK ME</summary>
-<p>
-
-#### yes, even hidden code blocks!
-
-```python
-print("hello world!")
-```
-
-</p>
-</details>
