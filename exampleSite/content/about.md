@@ -48,4 +48,4 @@ Have questions or suggestions? Feel free to _[open an issue on GitHub](https://g
 Thanks for reading!
 
 ###### If my blog help you reduce time to develop, you can give me a cup of coffee :)  
-[![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=X6XHVCPMRQEL4)
+[![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.me/sohailsami)
