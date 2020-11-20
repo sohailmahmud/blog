@@ -42,6 +42,6 @@ Diploma-in Engineering, Computer Technology
 2013 – 2017
 
 
-Have questions or suggestions? Feel free to _[open an issue on GitHub](https://github.com/sohailsami/sohailsami.github.io/issues/new)_ or _[ask me on Telegram](https://t.me/sohailsamii)._
+Have questions or suggestions? Feel free to _[open an issue on GitHub](https://github.com/sohailsami/sm-blog/issues/new)_ or _[ask me on Telegram](https://t.me/sohailsamii)._
 
 Thanks for reading!
