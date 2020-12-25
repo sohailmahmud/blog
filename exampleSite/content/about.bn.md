@@ -17,8 +17,8 @@ __A Full Stack Software Developer with industry experience building web applicat
 
 ###### 💼 WORK EXPERIENCE
 _November 2020 – Present_  
-**Full Stack Developer (Remote)**  
-CYNERGY SOLUTIONS LLC  
+**Senior Programmer**  
+EXTREME SOLUTIONS LTD.  
 Simi Valley, CA, 93065 US.
 
 _May 2020 – October 2020_  
