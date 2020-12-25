@@ -16,7 +16,12 @@ __A Full Stack Software Developer with industry experience building web applicat
 * CI/CD: Drone, Jenkins
 
 ###### 💼 WORK EXPERIENCE
-_May 2020 – Present_  
+_November 2020 – Present_  
+**Full Stack Developer (Remote)**  
+CYNERGY SOLUTIONS LLC  
+Simi Valley, CA, 93065 US.
+
+_May 2020 – October 2020_  
 **Full Stack Developer (Remote)**  
 CYNERGY SOLUTIONS LLC  
 Simi Valley, CA, 93065 US.
