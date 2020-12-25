@@ -19,7 +19,7 @@ disqusShortname = "yourdiscussshortname"
     description = "Sohail Mahmud's personal blog"
     keywords = "blog,developer,software,engineer"
     info = "Full Stack Software Developer"
-    avatarurl = "images/avatar.png"
+    avatarurl = "https://avatars1.githubusercontent.com/u/46453392?s=400&u=f70020aeb9d5cbd0cbded2f162852c06ad7d72a7&v=4"
     #gravatar = "sohailmahmud@outlook.com"
 
     dateformat = "January 2, 2006"
