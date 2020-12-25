@@ -19,7 +19,7 @@ __A Full Stack Software Developer with industry experience building web applicat
 _November 2020 – Present_  
 **Senior Programmer**  
 EXTREME SOLUTIONS LTD.  
-Simi Valley, CA, 93065 US.
+Chittagong, Bangladesh.
 
 _May 2020 – October 2020_  
 **Full Stack Developer (Remote)**  
