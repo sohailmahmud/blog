@@ -6,11 +6,11 @@ categories = ["about"]
 +++
 ### Hi there 👋, I am Sohail Mahmud!
 --- 
-__A Full Stack Software Developer with industry experience building web application used by millions of people. Specializing in JavaScript technologies and AWS. Professional experience working with Node.js, Laravel and Drone.__
+__A Full Stack Software Developer with industry experience building web & mobile application used by millions of people. Specializing in JavaScript technologies and AWS. Professional experience working with Node.js, Laravel and Drone.__
 
 [![Hire Me](/hired.png)](mailto:sohailmahmud@yahoo.com)
 ###### 👨‍💻 AREAS OF EXPERTISE
-* Frontend: HTML, CSS, SASS, Vanilla JS, React
+* Frontend: HTML, CSS, SASS, Vanilla JS, Flutter
 * Backend: PHP, Java, NodeJS, Docker
 * Databases: MySQL, Oracle, PostgreSQL, MongoDB
 * Cloud Computing: AWS, Salesforce
