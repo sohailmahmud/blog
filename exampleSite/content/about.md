@@ -18,7 +18,7 @@ __A Full Stack Software Developer with industry experience building web & mobile
 
 ###### 💼 WORK EXPERIENCE
 _November 2020 – Present_  
-**Senior Programmer**  
+**Software Engineer**  
 EXTREME SOLUTIONS LTD.  
 Chittagong, Bangladesh.
 
